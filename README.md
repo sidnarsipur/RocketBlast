@@ -10,5 +10,7 @@ A space adventure game I created with [Java Swing](https://en.wikipedia.org/wiki
 # How to run 
 
 `cd src`
+
 `javac RocketBlast.java`
+
 `java RocketBlast`
